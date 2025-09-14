@@ -1,2 +1,3 @@
-# wathmew.github.io
 site for my stuff
+
+we blogging it
