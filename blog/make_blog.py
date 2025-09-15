@@ -31,7 +31,7 @@ for md_file in sorted(path.glob("*.md"), key=lambda f: int(f.stem.split("-", 1)[
         <html>
             <head>
                 <title>{md_file.stem.split("-",1)[1]}</title>
-                <link rel="stylesheet" href="styles.css">
+                <link rel="stylesheet" href="../../styles.css">
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
             </head>
